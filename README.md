@@ -1,3 +1,3 @@
 # mastermind
-mastermind game
+mastermind game  
 ![Screenshot](Screenshot.png)
